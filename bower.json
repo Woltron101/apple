@@ -1,0 +1,10 @@
+{
+  "name": "woltron",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "*",
+    "bootstrap": "~3.3.6",
+    "components-font-awesome": "~4.5.0",
+    "animate-sass": "~0.6.4"
+  }
+}
